@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @zainkhanbaloch
-- 👀 I’m interested in Web Dev, App Dev, Game Dev & Python
+- 👀 I’m interested in Web development, Machine Learning and DevOps.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Designs
+- 💞️ I’m looking to collaborate on Full-stack Apps.
 - 📫 You can contact with me at mzainabbas77@gmail.com
-
-<!---
-zainkhanbaloch/zainkhanbaloch
